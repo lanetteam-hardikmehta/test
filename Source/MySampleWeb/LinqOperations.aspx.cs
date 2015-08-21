@@ -31,7 +31,7 @@ public partial class LinqOperations : System.Web.UI.Page
 
     #region Private Methods
 
-    //Get Prod List By tblObj
+    //Get Prod List By tblObj //test
     private void getProdListUsingtblObj()
     { 
         
